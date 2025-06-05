@@ -1,9 +1,0 @@
-above dataset which ml model sutable and give accurate pridication
-
-I select logistic regresion , above data set which value pridict using logistic regresion
-
-give code pridict class using logistic regression
-
-above .ipynb file make deploye code using streamlit
-
-
